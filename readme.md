@@ -17,4 +17,5 @@
 ## Reference:
 https://youtu.be/thlFWQ15Z-0
 
-
+## Urdu tutorial:
+https://youtu.be/pNj6Ek2Qujw?feature=shared
